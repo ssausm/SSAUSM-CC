@@ -1,0 +1,10 @@
+{
+  "name": "SSAUSM CC",
+  "description": "SSAUSM (NJ, USA) - Contact Card Application: To collect contact information.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/logo.png"
+  },
+  "default_locale": "en",
+  "type": "privileged"
+}

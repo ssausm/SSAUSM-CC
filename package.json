@@ -1,0 +1,21 @@
+{
+  "name": "phonegap-template-hello-world",
+  "version": "4.0.2",
+  "description": "> SSAUSM (NJ, USA) - Contact Card Application: To collect contact information.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
+  },
+  "author": "SSAUSM IT Team",
+  "license": "Apache-2.0.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
+  },
+  "homepage": "https://github.com/phonegap/phonegap-app-hello-world"
+}
